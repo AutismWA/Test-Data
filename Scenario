@@ -1,0 +1,35 @@
+Scenario
+
+You work for a not-for-profit that wants to analyse their client's data to understand the uptake of NDIS services that they provide. They have provided you with a dataset containing sales information for the past year.
+
+Tasks for the Screening Test
+
+1. Data Preparation:
+
+Clean and transform the data as needed (e.g., format dates, handle null values).
+2. Dashboard Creation:
+
+Create a one-page dashboard (on sheet Charts) with at least three visualisations:
+
+A line chart showing trend of Services delivered over time.
+A bar chart showing Services delivered by Client's gender and Age.
+A table showing information about the Services delivered.
+3. Additional Requirements:
+
+Include slicers or filters to allow users to filter by Service and Client demographics.
+Ensure the dashboard has a professional and user-friendly design.
+Show your creativity.
+Provide tooltips or additional interactions to enhance user experience (optional but recommended).
+Evaluation Criteria
+
+Data Preparation: Accuracy of data cleaning and transformation.
+Visualisation Quality: Clarity, relevance, and aesthetics of visualizations.
+Interactivity: Effective use of filters and slicers.
+Dashboard Layout: Organisation and flow of information.
+Overall Impression: Creativity, attention to detail, and overall presentation.
+
+
+Submission Instructions
+
+Provide the Power BI file (.pbix) along with any necessary instructions or explanations.
+Write a paragraph about two insights that you gained from the analysis (as another tab in the pbix file).
