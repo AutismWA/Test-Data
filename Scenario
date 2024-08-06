@@ -7,6 +7,7 @@ Tasks for the Screening Test
 1. Data Preparation:
 
 Clean and transform the data as needed (e.g., format dates, handle null values).
+
 2. Dashboard Creation:
 
 Create a one-page dashboard (on sheet Charts) with at least three visualisations:
@@ -14,6 +15,7 @@ Create a one-page dashboard (on sheet Charts) with at least three visualisations
 A line chart showing trend of Services delivered over time.
 A bar chart showing Services delivered by Client's gender and Age.
 A table showing information about the Services delivered.
+
 3. Additional Requirements:
 
 Include slicers or filters to allow users to filter by Service and Client demographics.
